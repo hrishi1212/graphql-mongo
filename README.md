@@ -2,14 +2,14 @@
 
 ## Background information
 
-###run
+### run
 
 - edit /config/default.json
 - provide mongodb connection path [mongodb://localhost:27017/assignment by default]
 - npm install
 - npm start
 
-###added /countries endpoint
+### added /countries endpoint
 
 - `/users`
 - `/apartments`
@@ -18,7 +18,7 @@
 - `/graphql`
 - `/graphiql`
 
-##What I did
+## What I did
 
 1. I have added new endpoint /countries by creating new service countries.
 
